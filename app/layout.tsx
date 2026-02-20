@@ -26,6 +26,26 @@ export default function RootLayout({
                     <main className="flex-grow">{children}</main>
                     <Footer />
                     <ChatWidget />
+                    {/* Watermark */}
+                    <div style={{
+                        position: 'fixed',
+                        bottom: '12px',
+                        left: '12px',
+                        zIndex: 9999,
+                        fontSize: '11px',
+                        fontFamily: 'Inter, sans-serif',
+                        color: 'rgba(255,255,255,0.45)',
+                        background: 'rgba(0,0,0,0.35)',
+                        backdropFilter: 'blur(6px)',
+                        padding: '4px 10px',
+                        borderRadius: '20px',
+                        letterSpacing: '0.04em',
+                        userSelect: 'none',
+                        pointerEvents: 'none',
+                        border: '1px solid rgba(255,255,255,0.1)'
+                    }}>
+                        Created by Sriram Teja S
+                    </div>
                 </AuthProvider>
             </body>
         </html>
