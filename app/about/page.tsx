@@ -10,28 +10,10 @@ import Link from 'next/link';
 
 const team = [
     {
-        name: "James Wilson",
+        name: "Jey Rangan",
         role: "CEO & Founder",
         image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=800&auto=format&fit=crop",
-        bio: "20+ years in enterprise IT architecture and strategy."
-    },
-    {
-        name: "Sarah Chen",
-        role: "CTO",
-        image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=800&auto=format&fit=crop",
-        bio: "Former Lead Architect at major cloud services provider."
-    },
-    {
-        name: "Michael Ross",
-        role: "VP of Operations",
-        image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=800&auto=format&fit=crop",
-        bio: "Expert in global delivery and managed services excellence."
-    },
-    {
-        name: "Elena Rodriguez",
-        role: "Head of AI Innovation",
-        image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=800&auto=format&fit=crop",
-        bio: "PhD in Data Science with a focus on generative AI for enterprise."
+        bio: "20+ years in enterprise IT architecture and strategy, driving digital transformation for Fortune 500 companies."
     }
 ];
 
@@ -72,7 +54,7 @@ export default function AboutPage() {
                                     <p className="text-slate-800 text-lg italic font-medium">
                                         "We believe in staying ahead of the curve, retooling our team constantly to ensure our clients always have the competitive advantage."
                                     </p>
-                                    <p className="mt-4 text-slate-500 font-bold">— James Wilson, CEO</p>
+                                    <p className="mt-4 text-slate-500 font-bold">— Jey Rangan, CEO & Founder</p>
                                 </div>
                             </div>
                         </FadeIn>
@@ -97,7 +79,7 @@ export default function AboutPage() {
             <section className="py-32">
                 <div className="container mx-auto px-4 text-center">
                     <SectionHeader title="Meet the Visionaries" subtitle="Decades of collective expertise at your service" centered />
-                    <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mt-16">
+                    <div className="flex justify-center mt-16">
                         {team.map((member, idx) => (
                             <FadeIn key={idx} direction="up" delay={idx * 0.1}>
                                 <div className="group relative">
