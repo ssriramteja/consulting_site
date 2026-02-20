@@ -1,0 +1,31 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[15],{2583:function(e,t,n){Promise.resolve().then(n.bind(n,4860))},4860:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return m}});var i=n(3827),a=n(5293),r=n(695),s=n(403),o=n(3276),l=n(7624),c=n(3236);/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let d=(0,n(7461).Z)("Headphones",[["path",{d:"M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3",key:"1xhozi"}]]),x=[{icon:r.Z,title:"Modernization Services",desc:"Leverage our expertise to modernize your legacy AS/400 systems, integrating them with newer technologies."},{icon:s.Z,title:"Custom Development",desc:"Creating custom applications using RPGLE, COBOL, JSON, and Web Services on the IBMi platform."},{icon:o.Z,title:"SYNON Development",desc:"Specialized in creating custom applications using the SYNON CASE tool to generate RPGLE and COBOL code."},{icon:l.Z,title:"Corporate Training",desc:"Our experts provide SYNON corporate training, and SYNON server access is available."},{icon:c.Z,title:"Administration",desc:"Continuous optimization, security, and management to ensure smooth and uninterrupted operations."},{icon:d,title:"Support Services",desc:"Troubleshooting, proactive monitoring, and patch management for peak performance."}];function m(){return(0,i.jsxs)("div",{className:"flex flex-col",children:[(0,i.jsxs)("section",{className:"relative py-24 bg-primary-dark text-white overflow-hidden",children:[(0,i.jsx)("div",{className:"absolute inset-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:14px_24px]"}),(0,i.jsxs)("div",{className:"container mx-auto px-4 relative z-10 text-center",children:[(0,i.jsxs)("div",{className:"inline-flex items-center rounded-full border border-green-500/30 bg-green-500/10 px-4 py-1.5 text-sm font-medium text-green-400 mb-6 backdrop-blur-sm",children:[(0,i.jsx)("span",{className:"flex h-2 w-2 rounded-full bg-green-500 mr-2 animate-pulse"}),"AS/400 Center of Excellence"]}),(0,i.jsx)("h1",{className:"text-4xl md:text-6xl font-bold mb-6 font-mono",children:"IBMi Solutions"}),(0,i.jsx)("p",{className:"text-xl text-slate-300 max-w-2xl mx-auto",children:"Optimizing and modernizing critical legacy infrastructure for Banking, Finance, and Logistics."})]})]}),(0,i.jsx)("section",{className:"py-24 bg-white",children:(0,i.jsxs)("div",{className:"container mx-auto px-4",children:[(0,i.jsxs)("div",{className:"max-w-3xl mx-auto text-center mb-16",children:[(0,i.jsx)("h2",{className:"text-3xl font-bold text-primary-dark mb-6",children:"Deep Expertise in Legacy Systems"}),(0,i.jsx)("p",{className:"text-lg text-slate-600 leading-relaxed",children:"We have a well-established IBMi (AS/400) practice, backed by a team of skilled system administrators and developers with deep experience in managing likely regulated environments. Whether you’re looking to modernize legacy systems or ensure compliance, we have the expertise you need."})]}),(0,i.jsx)("div",{className:"grid md:grid-cols-2 lg:grid-cols-3 gap-8",children:x.map((e,t)=>(0,i.jsxs)(a.E.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{delay:.1*t},className:"group p-8 rounded-2xl bg-slate-50 border border-slate-100 hover:bg-white hover:shadow-xl transition-all",children:[(0,i.jsx)(e.icon,{className:"h-10 w-10 text-secondary mb-6 group-hover:scale-110 transition-transform"}),(0,i.jsx)("h3",{className:"text-xl font-bold text-slate-900 mb-3",children:e.title}),(0,i.jsx)("p",{className:"text-slate-600 leading-relaxed",children:e.desc})]},t))})]})})]})}},403:function(e,t,n){"use strict";n.d(t,{Z:function(){return i}});/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let i=(0,n(7461).Z)("Code",[["polyline",{points:"16 18 22 12 16 6",key:"z7tu5w"}],["polyline",{points:"8 6 2 12 8 18",key:"1eg1df"}]])},3276:function(e,t,n){"use strict";n.d(t,{Z:function(){return i}});/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let i=(0,n(7461).Z)("Database",[["ellipse",{cx:"12",cy:"5",rx:"9",ry:"3",key:"msslwz"}],["path",{d:"M3 5V19A9 3 0 0 0 21 19V5",key:"1wlel7"}],["path",{d:"M3 12A9 3 0 0 0 21 12",key:"mv7ke4"}]])},7624:function(e,t,n){"use strict";n.d(t,{Z:function(){return i}});/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let i=(0,n(7461).Z)("GraduationCap",[["path",{d:"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z",key:"j76jl0"}],["path",{d:"M22 10v6",key:"1lu8f3"}],["path",{d:"M6 12.5V16a6 3 0 0 0 12 0v-3.5",key:"1r8lef"}]])},695:function(e,t,n){"use strict";n.d(t,{Z:function(){return i}});/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let i=(0,n(7461).Z)("Server",[["rect",{width:"20",height:"8",x:"2",y:"2",rx:"2",ry:"2",key:"ngkwjq"}],["rect",{width:"20",height:"8",x:"2",y:"14",rx:"2",ry:"2",key:"iecqi9"}],["line",{x1:"6",x2:"6.01",y1:"6",y2:"6",key:"16zg32"}],["line",{x1:"6",x2:"6.01",y1:"18",y2:"18",key:"nzw8ys"}]])},3236:function(e,t,n){"use strict";n.d(t,{Z:function(){return i}});/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */let i=(0,n(7461).Z)("ShieldCheck",[["path",{d:"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",key:"oel41y"}],["path",{d:"m9 12 2 2 4-4",key:"dzmm74"}]])}},function(e){e.O(0,[863,971,69,744],function(){return e(e.s=2583)}),_N_E=e.O()}]);
